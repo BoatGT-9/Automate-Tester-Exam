@@ -1,0 +1,21 @@
+# Cypress Automation Test
+
+This project contains Cypress end-to-end tests for browser automation.
+
+## Installation
+
+```bash
+npm install
+```
+
+## Run the test runner
+
+```bash
+npx cypress open
+```
+
+## Record video test
+
+```bash
+npx cypress run --spec "cypress/e2e/Register.cy.js"
+```

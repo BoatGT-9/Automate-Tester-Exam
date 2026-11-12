@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "cypress": "^16.3.0",
+    "cypress-xpath": "^2.0.1"
+  },
+  "allowScripts": {
+    "cypress": true
+  }
+}
